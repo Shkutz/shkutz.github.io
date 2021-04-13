@@ -1,0 +1,50 @@
+.header	{
+	font-style: 20px;
+	line-height: 1,5;
+	margin-bottom: 60px auto;
+
+}
+
+.section {
+	padding: 30px 0;
+}
+.header span {
+	display: block;
+}
+
+.container, .col-lg-6 {
+
+}
+
+.formheader {
+	font-style: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+
+.form {
+	border:5px solid blue;
+	padding: 35px 20px;
+}
+
+.form-btn	{
+	margin: 10px auto;
+	background-color: blue;
+}
+
+.form input {
+	margin-bottom: 12px;
+}
+
+.section-header {
+	font-style: 20px;
+	font-weight: 900;
+}
+
+.col-lg-3 img {
+	width: 60px;
+}
+
+.video	{
+	margin-bottom: 30px;
+}
